@@ -2,7 +2,7 @@
 void main()
 {
     int n;
-    printf("enter lines\n");
+    printf("Enter number of lines\n");
     scanf("%d", &n);
     for (int i = 0; i < n; i++)
     {
