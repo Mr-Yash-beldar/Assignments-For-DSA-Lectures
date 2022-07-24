@@ -1,12 +1,12 @@
 /*Aurthor--Yashodip Beldar
   Date--23/7/2022
-  Purpose--To print pattern assignment.
+  Purpose--To print pattern assignment in odd order.
 */
 #include <stdio.h> 
 void main()
 {
     int n;
-    printf("Enter number of lines\n");
+    printf("Enter \n");
     scanf("%d", &n);
     for (int i = 1; i <= n; i++)
     {
